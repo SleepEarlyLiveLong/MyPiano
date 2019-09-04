@@ -3,7 +3,7 @@
 This is A Simple Electro-acoustic Synthesizer written by MATLAB and its GUI. Here is the file structure:
 
 ```
-KmeansCluster
+MyPiano
     |-- src
         |-- MyPiano.fig
         |-- MyPiano.m
